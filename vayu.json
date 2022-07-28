@@ -18,7 +18,8 @@
       "bootloader": "",
       "recovery": "https://orangefox.download/device/vayu",
       "paypal": "",
-      "telegram": "https://t.me/spiceosvayu"
+      "telegram": "https://t.me/spiceosvayu",
+      "sad":"ds"
     }
   ]
 }
