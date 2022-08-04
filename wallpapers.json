@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Default Wallpaper",
+    "author": "Ghostrix",
+    "url": "https://raw.githubusercontent.com/SpiceOS-Beta/android_vendor_spiceos/12.1/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
+    "dimensions": "1080x1080",
+    "collections": "SpiceOS"
+  }
+]
