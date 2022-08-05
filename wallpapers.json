@@ -5,5 +5,13 @@
     "url": "https://raw.githubusercontent.com/SpiceOS-Beta/android_vendor_spiceos/12.1/overlay/common/frameworks/base/core/res/res/drawable-hdpi/default_wallpaper.png",
     "dimensions": "1080x1080",
     "collections": "SpiceOS"
+  },
+    {
+    "name": "Unsplash",
+    "author": "Ghostrix",
+    "url": "https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "dimensions": "1080x1080",
+    "collections": "Unsplash"
   }
+
 ]
